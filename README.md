@@ -1,3 +1,1 @@
 # forkify
-
-Aplicação de receitas.
