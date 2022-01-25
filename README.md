@@ -61,7 +61,7 @@ _(You can find more search term in this [list](https://forkify-api.herokuapp.com
 <h1 id="autor"> Author </h1>
 
 <a href="https://linkedin.com/in/jaubert-machado">
- <img src="/img/foto-modified.png" width="100px;" alt=""/>
+ <img src="/src/img/foto-modified.png" width="100px;" alt=""/>
  <br />
  <sub><b>Jaubert Machado</b></sub></a> <a href="/src/img/foto-modified.png "></a>
 
