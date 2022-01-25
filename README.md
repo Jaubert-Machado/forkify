@@ -5,7 +5,7 @@
 <h1 align="center"> Forkify </h1> 
 <p align="center"><a href="#">Project link</a></p>
 
-<p align="center"> Project made during The Complete Javascript Course 2021 (by: Jonas Schmedtmann), Forkify is an app to create view, save and create recipes. </p>
+<p align="center"> Project made during The Complete Javascript Course 2021 (by: Jonas Schmedtmann), Forkify is an app to create, view and save recipes. </p>
 <h1 align="center">
   <img src="https://img.shields.io/badge/study-portfolio-green">
   <img src="https://img.shields.io/badge/material-course-informational">  
