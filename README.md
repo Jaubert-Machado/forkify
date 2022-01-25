@@ -50,7 +50,7 @@ _(You can find more search terms in this [list](https://forkify-api.herokuapp.co
 
 <p> The last and most complex project from the entire course, API consume, MVC architecture, a lot of planning and problem solving, overall a fun and complete project.</p>
 
-<h1 align="center" id="demo">Project demo</h1>
+<h1 id="demo">Project demo</h1>
 <img src="/src/img/fork.gif">
 
 
