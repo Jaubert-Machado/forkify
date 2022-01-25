@@ -5,7 +5,7 @@ import icons from 'url:../../img/icons.svg';
 class BookmarksView extends View {
   _parentElement = document.querySelector('.bookmarks__list');
   _errorMessage =
-    'Nenhuma receita favorita encontrada, encontre sua receita predileta e a favorite.';
+    'Nenhuma receita favorita encontrada, favorite uma receita! :)';
   _message = '';
 
   addHandlerRender(handler) {

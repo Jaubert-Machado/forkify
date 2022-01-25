@@ -40,7 +40,6 @@ class RecipeView extends View {
         <span>${this._data.title}</span>
       </h1>
     </figure>
-
     <div class="recipe__details">
       <div class="recipe__info">
         <svg class="recipe__info-icon">
@@ -49,7 +48,7 @@ class RecipeView extends View {
         <span class="recipe__info-data recipe__info-data--minutes">${
           this._data.cookingTime
         }</span>
-        <span class="recipe__info-text">minutes</span>
+        <span class="recipe__info-text">minutos</span>
       </div>
       <div class="recipe__info">
         <svg class="recipe__info-icon">
@@ -58,7 +57,7 @@ class RecipeView extends View {
         <span class="recipe__info-data recipe__info-data--people">${
           this._data.servings
         }</span>
-        <span class="recipe__info-text">servings</span>
+        <span class="recipe__info-text">porções</span>
 
         <div class="recipe__info-buttons">
           <button class="btn--tiny btn--update-servings" data-update-to="${
@@ -94,27 +93,26 @@ class RecipeView extends View {
     </div>
 
     <div class="recipe__ingredients">
-      <h2 class="heading--2">Recipe ingredients</h2>
+      <h2 class="heading--2">Ingredientes da receita</h2>
       <ul class="recipe__ingredient-list">
       ${this._data.ingredients.map(this._generateMarkupIngredient).join('')}
       </ul>
     </div>
 
     <div class="recipe__directions">
-      <h2 class="heading--2">How to cook it</h2>
+      <h2 class="heading--2">Como preparar</h2>
       <p class="recipe__directions-text">
-        This recipe was carefully designed and tested by
+        Esta receita foi criada cuidadosamente e testada por
         <span class="recipe__publisher">${
           this._data.publisher
-        }</span>. Please check out
-        directions at their website.
+        }</span>. Por favor, confira as instruções no site.
       </p>
       <a
         class="btn--small recipe__btn"
         href="${this._data.sourceUrl}"
         target="_blank"
       >
-        <span>Directions</span>
+        <span>Instruções</span>
         <svg class="search__icon">
           <use href="${icons}.svg#icon-arrow-right"></use>
         </svg>
