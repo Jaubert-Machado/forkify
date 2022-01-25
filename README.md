@@ -21,9 +21,7 @@
  
 </p>
 
-<h1 id="app">Forkify App</h1>
-
-# Installing packages
+<h1 id="app">Installing packages</h1>
 
 ```sh
 npm install
@@ -46,17 +44,15 @@ npm start
 - orange
 - salad
 
-_(You can find more search term in this [list](https://forkify-api.herokuapp.com/phrases.html))_
+_(You can find more search terms in this [list](https://forkify-api.herokuapp.com/phrases.html))_
 
 <h1 id="objetivo">Goal</h1>
 
 <p> The last and most complex project from the entire course, API consume, MVC architecture, a lot of planning and problem solving, overall a fun and complete project.</p>
 
-<h1 id="demo">Project demo</h1>
-<h1 align="center">
-  <h1 align="center">
-  <img src="/src/img/fork.gif">
-</h1>
+<h1 align="center" id="demo">Project demo</h1>
+<img src="/src/img/fork.gif">
+
 
 <h1 id="autor"> Author </h1>
 
@@ -94,3 +90,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE. </p>
+
