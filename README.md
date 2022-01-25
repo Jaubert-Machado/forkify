@@ -63,8 +63,7 @@ _(You can find more search term in this [list](https://forkify-api.herokuapp.com
 <a href="https://linkedin.com/in/jaubert-machado">
  <img src="/img/foto-modified.png" width="100px;" alt=""/>
  <br />
- <sub><b>Jaubert Machado</b></sub></a> <a href="
-foto-modified.png "></a>
+ <sub><b>Jaubert Machado</b></sub></a> <a href="/src/img/foto-modified.png "></a>
 
 Made by Jaubert Machado 👋🏽 Contact Me!
 
